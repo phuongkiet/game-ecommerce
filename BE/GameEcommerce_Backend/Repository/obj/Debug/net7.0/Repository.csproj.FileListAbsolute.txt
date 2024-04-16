@@ -1,0 +1,17 @@
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\bin\Debug\net7.0\Repository.deps.json
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\bin\Debug\net7.0\Repository.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\bin\Debug\net7.0\Repository.pdb
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\bin\Debug\net7.0\BusinessObject.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\bin\Debug\net7.0\DataAccessObject.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\bin\Debug\net7.0\DataAccessObject.pdb
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\bin\Debug\net7.0\BusinessObject.pdb
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\obj\Debug\net7.0\Repository.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\obj\Debug\net7.0\refint\Repository.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\obj\Debug\net7.0\Repository.pdb
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\Repository\obj\Debug\net7.0\ref\Repository.dll

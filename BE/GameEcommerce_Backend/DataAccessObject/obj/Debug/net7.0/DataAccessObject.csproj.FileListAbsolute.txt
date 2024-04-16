@@ -1,0 +1,17 @@
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\bin\Debug\net7.0\DataAccessObject.deps.json
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\bin\Debug\net7.0\DataAccessObject.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\bin\Debug\net7.0\DataAccessObject.pdb
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\bin\Debug\net7.0\BusinessObject.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\bin\Debug\net7.0\BusinessObject.pdb
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\DataAccessObject.csproj.AssemblyReference.cache
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\DataAccessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\DataAccessObject.AssemblyInfoInputs.cache
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\DataAccessObject.AssemblyInfo.cs
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\DataAccessObject.csproj.CoreCompileInputs.cache
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\DataAccessObject.csproj.CopyComplete
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\DataAccessObject.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\refint\DataAccessObject.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\DataAccessObject.pdb
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\ref\DataAccessObject.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\bin\Debug\net7.0\DataAccessObject.runtimeconfig.json
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\DataAccessObject\obj\Debug\net7.0\DataAccessObject.genruntimeconfig.cache

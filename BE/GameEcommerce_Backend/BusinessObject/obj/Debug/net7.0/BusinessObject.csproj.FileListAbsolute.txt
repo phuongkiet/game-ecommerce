@@ -1,0 +1,12 @@
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\bin\Debug\net7.0\BusinessObject.deps.json
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\bin\Debug\net7.0\BusinessObject.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\bin\Debug\net7.0\BusinessObject.pdb
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.AssemblyReference.cache
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\obj\Debug\net7.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfoInputs.cache
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\obj\Debug\net7.0\BusinessObject.AssemblyInfo.cs
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\obj\Debug\net7.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\obj\Debug\net7.0\BusinessObject.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\obj\Debug\net7.0\refint\BusinessObject.dll
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\obj\Debug\net7.0\BusinessObject.pdb
+D:\SourceCode\ASPNET\GameEcommerce\BE\GameEcommerce_Backend\BusinessObject\obj\Debug\net7.0\ref\BusinessObject.dll
